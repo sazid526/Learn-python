@@ -1,0 +1,10 @@
+def sazid():
+    a = 12
+    b =33
+
+    if a>b :
+        print("yes")
+    else:
+        print("no")        
+        
+sazid()
