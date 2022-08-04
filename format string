@@ -1,0 +1,6 @@
+a = "I am {} years old"
+b = 22
+
+
+
+print(a.format(b))
