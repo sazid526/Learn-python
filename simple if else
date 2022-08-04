@@ -1,0 +1,9 @@
+a = 67
+b =8
+
+if a>b:
+
+    print("yes")
+
+else : 
+    print("no")
