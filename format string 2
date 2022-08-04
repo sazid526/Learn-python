@@ -1,0 +1,6 @@
+a = "my name is sazid and I am {} years old . and my brother name is azmain. He is {} years old and my sister chowa she is {} years old."
+b = 22
+c = 13
+d = 19
+
+print(a.format(b,c,d))
