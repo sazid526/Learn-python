@@ -1,0 +1,7 @@
+a = ["tanven","arefin","sazid"]
+
+b = [3,6,5]
+
+c = a+b
+
+print(c)
