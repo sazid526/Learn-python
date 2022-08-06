@@ -1,0 +1,7 @@
+a = ["tanven","arefin","sazid"]
+b =[4,6,7,2]
+b.sort(reverse = True)
+for x in b:
+    a.append(x)
+
+print(a)
